@@ -1,19 +1,15 @@
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Adri%C3%A1n%20Sandoval&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20in%20progress%20%7C%204driSando&descSize=18&descAlignY=57" width="100%"/>
-
-<a href="https://github.com/4driSando">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Adri+%F0%9F%91%8B;Estudiante+de+2%C2%BA+DAM;Java+%7C+Python+%7C+Linux+%7C+Docker;Siempre+aprendiendo+algo+nuevo..." alt="Typing SVG" />
-</a>
+<img src="./assets/terminal.svg" alt="Terminal Matrix de Adrián Sandoval" width="100%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=4driSando&label=VISITAS+AL+PERFIL&color=0e75b6&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/4driSando?label=FOLLOWERS&style=for-the-badge&color=0e75b6&logo=github" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+Compiling+ideas+into+reality...;%3E+Learning+something+new+every+day...;%3E+Code.+Learn.+Repeat.)
 
 </div>
+
 
 ---
 
