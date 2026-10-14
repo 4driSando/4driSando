@@ -66,30 +66,6 @@ public class Adri {
 
 ---
 
-## 🚀 Mis proyectos
-
-<div align="center">
-
-<a href="https://github.com/4driSando/Eclipse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4driSando&repo=Eclipse&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/4driSando/Linux">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4driSando&repo=Linux&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/4driSando?tab=repositories">
-  <img src="https://img.shields.io/badge/VER_TODOS_MIS_REPOSITORIOS-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" />
-</a>
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -106,16 +82,6 @@ public class Adri {
 
 ---
 
-## 📈 Actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4driSando&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
 ## 🎯 Actualmente...
 
 - 📚 Cursando **2º de Desarrollo de Aplicaciones Multiplataforma**.
@@ -126,14 +92,6 @@ public class Adri {
 - 🧠 Intentando aprender algo nuevo cada día.
 
 ---
-
-<div align="center">
-
-### 💬 Una frase que me representa
-
-*"First, solve the problem. Then, write the code."*
-
-<br/>
 
 **Gracias por pasarte por mi perfil. ¡Nos vemos entre líneas de código! 🚀**
 
