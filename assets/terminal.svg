@@ -1,11 +1,660 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTphMDNiZDRmYy02NGY3LTQ1YjMtYjU4OC1kYTgxYmU3YWJiNjQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaB1N6CVoVW5Tnm5WWhFNBvQAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo2Mjg2Y2ViYS0yMzkxLTQxNGYtYWMwYy0xMmY2MGViZWVjMWZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoG2Z8ttcWg+7sFMmCHVMpzgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggRFcG9liulWrthxRasTTT19H/JQ2tOx4bOgp0WObQ6DekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaI1by7nD3KeYF37rypopH4kAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDnkaFQt1Eye3tCURktpMl4eyMwHzTN1nVfkEdtfKxt92RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBiWZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmEwM2JkNGZjLTY0ZjctNDViMy1iNTg4LWRhODFiZTdhYmI2NC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjdmZjRhN2EwLTliZjQtNGRlMC1hOTg3LTU3YzYxZmI2ZDIxNXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBEVwb2WK6Vau2HFFqxNNPX0f8lDa07Hhs6CnRY5tDoN6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgguwHgfmq9wizH/IzFhiVpS8LtC1RURpo4cuuVbYoiE6KiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggEdq9pQe6Fq+NrpX4X6qHr3+5lPOI9bxbOQnAcNsWktV0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQO9NZNCJw7eDzQUpRsy3Vb2P5NSSE0DHth0OhkbuWEpuoDQcm3/kACzXDHrxkd+O4fX0gI5x2IKSj69l1Ab6cPs=</c2pa:manifest></metadata>
+<defs><clipPath id="win"><rect width="900" height="260" rx="12"/></clipPath>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#39ff14" stop-opacity="0"/><stop offset=".5" stop-color="#39ff14" stop-opacity=".9"/><stop offset="1" stop-color="#b8ffb0"/></linearGradient></defs>
+<g clip-path="url(#win)">
+<rect width="900" height="260" fill="#050a05"/>
+<g opacity="0.27" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="8.7s" begin="-3.6s" repeatCount="indefinite"/>
+<text x="10" y="0" fill-opacity="0.10">9</text>
+<text x="10" y="16" fill-opacity="0.20">B</text>
+<text x="10" y="32" fill-opacity="0.30">3</text>
+<text x="10" y="48" fill-opacity="0.40">&lt;</text>
+<text x="10" y="64" fill-opacity="0.50">1</text>
+<text x="10" y="80" fill-opacity="0.60">8</text>
+<text x="10" y="96" fill-opacity="0.70">E</text>
+<text x="10" y="112" fill-opacity="0.80">1</text>
+<text x="10" y="128" fill-opacity="0.90">A</text>
+<text x="10" y="144" fill-opacity="1.00">5</text>
+</g>
+<g opacity="0.40" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="4.3s" begin="-0.8s" repeatCount="indefinite"/>
+<text x="30" y="0" fill-opacity="0.09">&lt;</text>
+<text x="30" y="16" fill-opacity="0.18">B</text>
+<text x="30" y="32" fill-opacity="0.27">F</text>
+<text x="30" y="48" fill-opacity="0.36">/</text>
+<text x="30" y="64" fill-opacity="0.45">/</text>
+<text x="30" y="80" fill-opacity="0.55">&lt;</text>
+<text x="30" y="96" fill-opacity="0.64">1</text>
+<text x="30" y="112" fill-opacity="0.73">&lt;</text>
+<text x="30" y="128" fill-opacity="0.82">&lt;</text>
+<text x="30" y="144" fill-opacity="0.91">4</text>
+<text x="30" y="160" fill-opacity="1.00">1</text>
+</g>
+<g opacity="0.35" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="4.2s" begin="-7.7s" repeatCount="indefinite"/>
+<text x="50" y="0" fill-opacity="0.11">C</text>
+<text x="50" y="16" fill-opacity="0.22">9</text>
+<text x="50" y="32" fill-opacity="0.33">B</text>
+<text x="50" y="48" fill-opacity="0.44">&lt;</text>
+<text x="50" y="64" fill-opacity="0.56">1</text>
+<text x="50" y="80" fill-opacity="0.67">9</text>
+<text x="50" y="96" fill-opacity="0.78">{</text>
+<text x="50" y="112" fill-opacity="0.89">D</text>
+<text x="50" y="128" fill-opacity="1.00">B</text>
+</g>
+<g opacity="0.28" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="6.9s" begin="-1.7s" repeatCount="indefinite"/>
+<text x="70" y="0" fill-opacity="0.08">}</text>
+<text x="70" y="16" fill-opacity="0.17">A</text>
+<text x="70" y="32" fill-opacity="0.25">&lt;</text>
+<text x="70" y="48" fill-opacity="0.33">1</text>
+<text x="70" y="64" fill-opacity="0.42">&gt;</text>
+<text x="70" y="80" fill-opacity="0.50">E</text>
+<text x="70" y="96" fill-opacity="0.58">7</text>
+<text x="70" y="112" fill-opacity="0.67">{</text>
+<text x="70" y="128" fill-opacity="0.75">9</text>
+<text x="70" y="144" fill-opacity="0.83">5</text>
+<text x="70" y="160" fill-opacity="0.92">#</text>
+<text x="70" y="176" fill-opacity="1.00">2</text>
+</g>
+<g opacity="0.35" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="6.9s" begin="-4.1s" repeatCount="indefinite"/>
+<text x="90" y="0" fill-opacity="0.09">D</text>
+<text x="90" y="16" fill-opacity="0.18">}</text>
+<text x="90" y="32" fill-opacity="0.27">#</text>
+<text x="90" y="48" fill-opacity="0.36">F</text>
+<text x="90" y="64" fill-opacity="0.45">A</text>
+<text x="90" y="80" fill-opacity="0.55">&lt;</text>
+<text x="90" y="96" fill-opacity="0.64">1</text>
+<text x="90" y="112" fill-opacity="0.73">8</text>
+<text x="90" y="128" fill-opacity="0.82">7</text>
+<text x="90" y="144" fill-opacity="0.91">2</text>
+<text x="90" y="160" fill-opacity="1.00">$</text>
+</g>
+<g opacity="0.29" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="5.4s" begin="-8.8s" repeatCount="indefinite"/>
+<text x="110" y="0" fill-opacity="0.09">5</text>
+<text x="110" y="16" fill-opacity="0.18">D</text>
+<text x="110" y="32" fill-opacity="0.27">#</text>
+<text x="110" y="48" fill-opacity="0.36">2</text>
+<text x="110" y="64" fill-opacity="0.45">C</text>
+<text x="110" y="80" fill-opacity="0.55">7</text>
+<text x="110" y="96" fill-opacity="0.64">5</text>
+<text x="110" y="112" fill-opacity="0.73">1</text>
+<text x="110" y="128" fill-opacity="0.82">{</text>
+<text x="110" y="144" fill-opacity="0.91">A</text>
+<text x="110" y="160" fill-opacity="1.00">#</text>
+</g>
+<g opacity="0.36" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="6.9s" begin="-7.9s" repeatCount="indefinite"/>
+<text x="130" y="0" fill-opacity="0.08">}</text>
+<text x="130" y="16" fill-opacity="0.17">3</text>
+<text x="130" y="32" fill-opacity="0.25">&gt;</text>
+<text x="130" y="48" fill-opacity="0.33">7</text>
+<text x="130" y="64" fill-opacity="0.42">&lt;</text>
+<text x="130" y="80" fill-opacity="0.50">6</text>
+<text x="130" y="96" fill-opacity="0.58">A</text>
+<text x="130" y="112" fill-opacity="0.67">A</text>
+<text x="130" y="128" fill-opacity="0.75">0</text>
+<text x="130" y="144" fill-opacity="0.83">7</text>
+<text x="130" y="160" fill-opacity="0.92">}</text>
+<text x="130" y="176" fill-opacity="1.00">{</text>
+</g>
+<g opacity="0.48" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="4.3s" begin="-6.3s" repeatCount="indefinite"/>
+<text x="150" y="0" fill-opacity="0.12">{</text>
+<text x="150" y="16" fill-opacity="0.25">6</text>
+<text x="150" y="32" fill-opacity="0.38">1</text>
+<text x="150" y="48" fill-opacity="0.50">}</text>
+<text x="150" y="64" fill-opacity="0.62">4</text>
+<text x="150" y="80" fill-opacity="0.75">{</text>
+<text x="150" y="96" fill-opacity="0.88">3</text>
+<text x="150" y="112" fill-opacity="1.00">0</text>
+</g>
+<g opacity="0.42" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="5.8s" begin="-5.5s" repeatCount="indefinite"/>
+<text x="170" y="0" fill-opacity="0.09">E</text>
+<text x="170" y="16" fill-opacity="0.18">#</text>
+<text x="170" y="32" fill-opacity="0.27">1</text>
+<text x="170" y="48" fill-opacity="0.36">C</text>
+<text x="170" y="64" fill-opacity="0.45">$</text>
+<text x="170" y="80" fill-opacity="0.55">F</text>
+<text x="170" y="96" fill-opacity="0.64">4</text>
+<text x="170" y="112" fill-opacity="0.73">4</text>
+<text x="170" y="128" fill-opacity="0.82">7</text>
+<text x="170" y="144" fill-opacity="0.91">A</text>
+<text x="170" y="160" fill-opacity="1.00">D</text>
+</g>
+<g opacity="0.30" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="6.0s" begin="-2.5s" repeatCount="indefinite"/>
+<text x="190" y="0" fill-opacity="0.09">5</text>
+<text x="190" y="16" fill-opacity="0.18">9</text>
+<text x="190" y="32" fill-opacity="0.27">0</text>
+<text x="190" y="48" fill-opacity="0.36">}</text>
+<text x="190" y="64" fill-opacity="0.45">5</text>
+<text x="190" y="80" fill-opacity="0.55">3</text>
+<text x="190" y="96" fill-opacity="0.64">{</text>
+<text x="190" y="112" fill-opacity="0.73">4</text>
+<text x="190" y="128" fill-opacity="0.82">F</text>
+<text x="190" y="144" fill-opacity="0.91">C</text>
+<text x="190" y="160" fill-opacity="1.00">A</text>
+</g>
+<g opacity="0.25" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="4.8s" begin="-5.9s" repeatCount="indefinite"/>
+<text x="210" y="0" fill-opacity="0.11">&lt;</text>
+<text x="210" y="16" fill-opacity="0.22">D</text>
+<text x="210" y="32" fill-opacity="0.33">0</text>
+<text x="210" y="48" fill-opacity="0.44">1</text>
+<text x="210" y="64" fill-opacity="0.56">0</text>
+<text x="210" y="80" fill-opacity="0.67">C</text>
+<text x="210" y="96" fill-opacity="0.78">5</text>
+<text x="210" y="112" fill-opacity="0.89">9</text>
+<text x="210" y="128" fill-opacity="1.00">3</text>
+</g>
+<g opacity="0.49" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="6.8s" begin="-8.6s" repeatCount="indefinite"/>
+<text x="230" y="0" fill-opacity="0.08">8</text>
+<text x="230" y="16" fill-opacity="0.17">&gt;</text>
+<text x="230" y="32" fill-opacity="0.25">/</text>
+<text x="230" y="48" fill-opacity="0.33">{</text>
+<text x="230" y="64" fill-opacity="0.42">$</text>
+<text x="230" y="80" fill-opacity="0.50">1</text>
+<text x="230" y="96" fill-opacity="0.58">6</text>
+<text x="230" y="112" fill-opacity="0.67">#</text>
+<text x="230" y="128" fill-opacity="0.75">{</text>
+<text x="230" y="144" fill-opacity="0.83">9</text>
+<text x="230" y="160" fill-opacity="0.92">4</text>
+<text x="230" y="176" fill-opacity="1.00">4</text>
+</g>
+<g opacity="0.39" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="6.0s" begin="-4.3s" repeatCount="indefinite"/>
+<text x="250" y="0" fill-opacity="0.09">E</text>
+<text x="250" y="16" fill-opacity="0.18">A</text>
+<text x="250" y="32" fill-opacity="0.27">E</text>
+<text x="250" y="48" fill-opacity="0.36">6</text>
+<text x="250" y="64" fill-opacity="0.45">D</text>
+<text x="250" y="80" fill-opacity="0.55">B</text>
+<text x="250" y="96" fill-opacity="0.64">2</text>
+<text x="250" y="112" fill-opacity="0.73">&gt;</text>
+<text x="250" y="128" fill-opacity="0.82">1</text>
+<text x="250" y="144" fill-opacity="0.91">B</text>
+<text x="250" y="160" fill-opacity="1.00">0</text>
+</g>
+<g opacity="0.38" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="4.8s" begin="-0.9s" repeatCount="indefinite"/>
+<text x="270" y="0" fill-opacity="0.08">0</text>
+<text x="270" y="16" fill-opacity="0.17">A</text>
+<text x="270" y="32" fill-opacity="0.25">E</text>
+<text x="270" y="48" fill-opacity="0.33">&gt;</text>
+<text x="270" y="64" fill-opacity="0.42">4</text>
+<text x="270" y="80" fill-opacity="0.50">C</text>
+<text x="270" y="96" fill-opacity="0.58">/</text>
+<text x="270" y="112" fill-opacity="0.67">0</text>
+<text x="270" y="128" fill-opacity="0.75">3</text>
+<text x="270" y="144" fill-opacity="0.83">&gt;</text>
+<text x="270" y="160" fill-opacity="0.92">3</text>
+<text x="270" y="176" fill-opacity="1.00">7</text>
+</g>
+<g opacity="0.59" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="4.6s" begin="-4.4s" repeatCount="indefinite"/>
+<text x="290" y="0" fill-opacity="0.12">7</text>
+<text x="290" y="16" fill-opacity="0.25">7</text>
+<text x="290" y="32" fill-opacity="0.38">1</text>
+<text x="290" y="48" fill-opacity="0.50">A</text>
+<text x="290" y="64" fill-opacity="0.62">C</text>
+<text x="290" y="80" fill-opacity="0.75">B</text>
+<text x="290" y="96" fill-opacity="0.88">$</text>
+<text x="290" y="112" fill-opacity="1.00">2</text>
+</g>
+<g opacity="0.31" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="5.3s" begin="-7.5s" repeatCount="indefinite"/>
+<text x="310" y="0" fill-opacity="0.08">0</text>
+<text x="310" y="16" fill-opacity="0.15">E</text>
+<text x="310" y="32" fill-opacity="0.23">8</text>
+<text x="310" y="48" fill-opacity="0.31">3</text>
+<text x="310" y="64" fill-opacity="0.38">C</text>
+<text x="310" y="80" fill-opacity="0.46">}</text>
+<text x="310" y="96" fill-opacity="0.54">9</text>
+<text x="310" y="112" fill-opacity="0.62">0</text>
+<text x="310" y="128" fill-opacity="0.69">#</text>
+<text x="310" y="144" fill-opacity="0.77">8</text>
+<text x="310" y="160" fill-opacity="0.85">1</text>
+<text x="310" y="176" fill-opacity="0.92">/</text>
+<text x="310" y="192" fill-opacity="1.00">A</text>
+</g>
+<g opacity="0.57" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="8.2s" begin="-4.7s" repeatCount="indefinite"/>
+<text x="330" y="0" fill-opacity="0.08">3</text>
+<text x="330" y="96" fill-opacity="0.54">8</text>
+<text x="330" y="112" fill-opacity="0.62">2</text>
+<text x="330" y="128" fill-opacity="0.69">/</text>
+<text x="350" y="32" fill-opacity="0.21">7</text>
+<text x="350" y="48" fill-opacity="0.29">3</text>
+<text x="350" y="64" fill-opacity="0.36">$</text>
+<text x="350" y="80" fill-opacity="0.43">0</text>
+<text x="350" y="96" fill-opacity="0.50">0</text>
+<text x="350" y="112" fill-opacity="0.57">0</text>
+<text x="350" y="128" fill-opacity="0.64">7</text>
+<text x="350" y="144" fill-opacity="0.71">0</text>
+<text x="350" y="160" fill-opacity="0.79">E</text>
+<text x="350" y="176" fill-opacity="0.86">}</text>
+<text x="350" y="192" fill-opacity="0.93">&gt;</text>
+<text x="350" y="208" fill-opacity="1.00">3</text>
+</g>
+<g opacity="0.37" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="8.0s" begin="-6.5s" repeatCount="indefinite"/>
+<text x="370" y="0" fill-opacity="0.09">3</text>
+<text x="370" y="16" fill-opacity="0.18">A</text>
+<text x="370" y="32" fill-opacity="0.27">F</text>
+<text x="370" y="48" fill-opacity="0.36">B</text>
+<text x="370" y="64" fill-opacity="0.45">F</text>
+<text x="370" y="80" fill-opacity="0.55">7</text>
+<text x="370" y="96" fill-opacity="0.64">E</text>
+<text x="370" y="112" fill-opacity="0.73">2</text>
+<text x="370" y="128" fill-opacity="0.82">E</text>
+<text x="370" y="144" fill-opacity="0.91">7</text>
+<text x="370" y="160" fill-opacity="1.00">&gt;</text>
+</g>
+<g opacity="0.48" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="8.2s" begin="-4.3s" repeatCount="indefinite"/>
+<text x="390" y="0" fill-opacity="0.08">/</text>
+<text x="390" y="16" fill-opacity="0.17">A</text>
+<text x="390" y="32" fill-opacity="0.25">{</text>
+<text x="390" y="48" fill-opacity="0.33">B</text>
+<text x="390" y="64" fill-opacity="0.42">4</text>
+<text x="390" y="80" fill-opacity="0.50">}</text>
+<text x="390" y="96" fill-opacity="0.58">#</text>
+<text x="390" y="112" fill-opacity="0.67">E</text>
+<text x="390" y="128" fill-opacity="0.75">7</text>
+<text x="390" y="144" fill-opacity="0.83">D</text>
+<text x="390" y="160" fill-opacity="0.92">5</text>
+<text x="390" y="176" fill-opacity="1.00">/</text>
+</g>
+<g opacity="0.50" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="4.4s" begin="-8.5s" repeatCount="indefinite"/>
+<text x="410" y="0" fill-opacity="0.10">6</text>
+<text x="410" y="16" fill-opacity="0.20">4</text>
+<text x="410" y="32" fill-opacity="0.30">$</text>
+<text x="410" y="48" fill-opacity="0.40">A</text>
+<text x="410" y="64" fill-opacity="0.50">$</text>
+<text x="410" y="80" fill-opacity="0.60">D</text>
+<text x="410" y="96" fill-opacity="0.70">D</text>
+<text x="410" y="112" fill-opacity="0.80">C</text>
+<text x="410" y="128" fill-opacity="0.90">0</text>
+<text x="410" y="144" fill-opacity="1.00">C</text>
+</g>
+<g opacity="0.30" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="8.5s" begin="-7.3s" repeatCount="indefinite"/>
+<text x="430" y="0" fill-opacity="0.08">&gt;</text>
+<text x="430" y="16" fill-opacity="0.17">7</text>
+<text x="430" y="32" fill-opacity="0.25">{</text>
+<text x="430" y="48" fill-opacity="0.33">3</text>
+<text x="430" y="64" fill-opacity="0.42">C</text>
+<text x="430" y="80" fill-opacity="0.50">9</text>
+<text x="430" y="96" fill-opacity="0.58">9</text>
+<text x="430" y="112" fill-opacity="0.67">C</text>
+<text x="430" y="128" fill-opacity="0.75">0</text>
+<text x="430" y="144" fill-opacity="0.83">0</text>
+<text x="430" y="160" fill-opacity="0.92">$</text>
+<text x="430" y="176" fill-opacity="1.00">/</text>
+</g>
+<g opacity="0.40" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="6.6s" begin="-8.4s" repeatCount="indefinite"/>
+<text x="450" y="0" fill-opacity="0.12">E</text>
+<text x="450" y="16" fill-opacity="0.25">E</text>
+<text x="450" y="32" fill-opacity="0.38">0</text>
+<text x="450" y="48" fill-opacity="0.50">0</text>
+<text x="450" y="64" fill-opacity="0.62">E</text>
+<text x="450" y="80" fill-opacity="0.75">1</text>
+<text x="450" y="96" fill-opacity="0.88">8</text>
+<text x="450" y="112" fill-opacity="1.00">F</text>
+</g>
+<g opacity="0.40" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="6.9s" begin="-2.3s" repeatCount="indefinite"/>
+<text x="470" y="0" fill-opacity="0.07">C</text>
+<text x="470" y="16" fill-opacity="0.14">1</text>
+<text x="470" y="32" fill-opacity="0.21">$</text>
+<text x="470" y="48" fill-opacity="0.29">3</text>
+<text x="470" y="64" fill-opacity="0.36">6</text>
+<text x="470" y="80" fill-opacity="0.43">{</text>
+<text x="470" y="96" fill-opacity="0.50">&lt;</text>
+<text x="470" y="112" fill-opacity="0.57">8</text>
+<text x="470" y="128" fill-opacity="0.64">5</text>
+<text x="470" y="144" fill-opacity="0.71">8</text>
+<text x="470" y="160" fill-opacity="0.79">C</text>
+<text x="470" y="176" fill-opacity="0.86">9</text>
+<text x="470" y="192" fill-opacity="0.93">C</text>
+<text x="470" y="208" fill-opacity="1.00">8</text>
+</g>
+<g opacity="0.31" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="4.1s" begin="-4.0s" repeatCount="indefinite"/>
+<text x="490" y="0" fill-opacity="0.08">0</text>
+<text x="490" y="16" fill-opacity="0.17">#</text>
+<text x="490" y="32" fill-opacity="0.25">C</text>
+<text x="490" y="48" fill-opacity="0.33">D</text>
+<text x="490" y="64" fill-opacity="0.42">C</text>
+<text x="490" y="80" fill-opacity="0.50">7</text>
+<text x="490" y="96" fill-opacity="0.58">&gt;</text>
+<text x="490" y="112" fill-opacity="0.67">$</text>
+<text x="490" y="128" fill-opacity="0.75">B</text>
+<text x="490" y="144" fill-opacity="0.83">9</text>
+<text x="490" y="160" fill-opacity="0.92">1</text>
+<text x="490" y="176" fill-opacity="1.00">2</text>
+</g>
+<g opacity="0.52" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="6.6s" begin="-5.0s" repeatCount="indefinite"/>
+<text x="510" y="0" fill-opacity="0.08">B</text>
+<text x="510" y="16" fill-opacity="0.15">9</text>
+<text x="510" y="32" fill-opacity="0.23">1</text>
+<text x="510" y="48" fill-opacity="0.31">F</text>
+<text x="510" y="64" fill-opacity="0.38">E</text>
+<text x="510" y="80" fill-opacity="0.46">0</text>
+<text x="510" y="96" fill-opacity="0.54">1</text>
+<text x="510" y="112" fill-opacity="0.62">#</text>
+<text x="510" y="128" fill-opacity="0.69">B</text>
+<text x="510" y="144" fill-opacity="0.77">8</text>
+<text x="510" y="160" fill-opacity="0.85">6</text>
+<text x="510" y="176" fill-opacity="0.92">9</text>
+<text x="510" y="192" fill-opacity="1.00">0</text>
+</g>
+<g opacity="0.36" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="8.5s" begin="-0.6s" repeatCount="indefinite"/>
+<text x="530" y="0" fill-opacity="0.07">8</text>
+<text x="530" y="16" fill-opacity="0.14">&gt;</text>
+<text x="530" y="32" fill-opacity="0.21">8</text>
+<text x="530" y="48" fill-opacity="0.29">E</text>
+<text x="530" y="64" fill-opacity="0.36">}</text>
+<text x="530" y="80" fill-opacity="0.43">0</text>
+<text x="530" y="96" fill-opacity="0.50">6</text>
+<text x="530" y="112" fill-opacity="0.57">8</text>
+<text x="530" y="128" fill-opacity="0.64">9</text>
+<text x="530" y="144" fill-opacity="0.71">7</text>
+<text x="530" y="160" fill-opacity="0.79">8</text>
+<text x="530" y="176" fill-opacity="0.86">F</text>
+<text x="530" y="192" fill-opacity="0.93">}</text>
+<text x="530" y="208" fill-opacity="1.00">8</text>
+</g>
+<g opacity="0.32" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="8.6s" begin="-8.0s" repeatCount="indefinite"/>
+<text x="550" y="0" fill-opacity="0.10">6</text>
+<text x="550" y="16" fill-opacity="0.20">C</text>
+<text x="550" y="32" fill-opacity="0.30">5</text>
+<text x="550" y="48" fill-opacity="0.40">B</text>
+<text x="550" y="64" fill-opacity="0.50">4</text>
+<text x="550" y="80" fill-opacity="0.60">6</text>
+<text x="550" y="96" fill-opacity="0.70">2</text>
+<text x="550" y="112" fill-opacity="0.80">A</text>
+<text x="550" y="128" fill-opacity="0.90">{</text>
+<text x="550" y="144" fill-opacity="1.00">F</text>
+</g>
+<g opacity="0.52" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="4.4s" begin="-6.0s" repeatCount="indefinite"/>
+<text x="570" y="0" fill-opacity="0.09">#</text>
+<text x="570" y="16" fill-opacity="0.18">C</text>
+<text x="570" y="32" fill-opacity="0.27">}</text>
+<text x="570" y="48" fill-opacity="0.36">/</text>
+<text x="570" y="64" fill-opacity="0.45">{</text>
+<text x="570" y="80" fill-opacity="0.55">3</text>
+<text x="570" y="96" fill-opacity="0.64">C</text>
+<text x="570" y="112" fill-opacity="0.73">0</text>
+<text x="570" y="128" fill-opacity="0.82">C</text>
+<text x="570" y="144" fill-opacity="0.91">6</text>
+<text x="570" y="160" fill-opacity="1.00">F</text>
+</g>
+<g opacity="0.42" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="8.8s" begin="-3.6s" repeatCount="indefinite"/>
+<text x="590" y="0" fill-opacity="0.08">{</text>
+<text x="590" y="16" fill-opacity="0.15">F</text>
+<text x="590" y="32" fill-opacity="0.23">D</text>
+<text x="590" y="48" fill-opacity="0.31">}</text>
+<text x="590" y="64" fill-opacity="0.38">5</text>
+<text x="590" y="80" fill-opacity="0.46">8</text>
+<text x="590" y="96" fill-opacity="0.54">4</text>
+<text x="590" y="112" fill-opacity="0.62">2</text>
+<text x="590" y="128" fill-opacity="0.69">5</text>
+<text x="590" y="144" fill-opacity="0.77">E</text>
+<text x="590" y="160" fill-opacity="0.85">3</text>
+<text x="590" y="176" fill-opacity="0.92">2</text>
+<text x="590" y="192" fill-opacity="1.00">A</text>
+</g>
+<g opacity="0.41" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="5.8s" begin="-3.0s" repeatCount="indefinite"/>
+<text x="610" y="0" fill-opacity="0.08">}</text>
+<text x="610" y="16" fill-opacity="0.15">0</text>
+<text x="610" y="32" fill-opacity="0.23">4</text>
+<text x="610" y="48" fill-opacity="0.31">2</text>
+<text x="610" y="64" fill-opacity="0.38">8</text>
+<text x="330" y="144" fill-opacity="0.77">F</text>
+</g>
+<g opacity="0.53" font-family="monospace" font-size="14" fill="#39ff14">
+<text x="610" y="80" fill-opacity="0.46">&gt;</text>
+<text x="610" y="96" fill-opacity="0.54">1</text>
+<text x="610" y="112" fill-opacity="0.62">8</text>
+<text x="610" y="128" fill-opacity="0.69">A</text>
+<text x="610" y="144" fill-opacity="0.77">B</text>
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="5.2s" begin="-3.6s" repeatCount="indefinite"/>
+<text x="350" y="0" fill-opacity="0.07">E</text>
+<text x="350" y="16" fill-opacity="0.14">8</text>
+<text x="610" y="160" fill-opacity="0.85">F</text>
+<text x="610" y="176" fill-opacity="0.92">B</text>
+<text x="610" y="192" fill-opacity="1.00">A</text>
+<text x="330" y="160" fill-opacity="0.85">&gt;</text>
+<text x="330" y="176" fill-opacity="0.92">#</text>
+<text x="330" y="192" fill-opacity="1.00">E</text>
+</g>
+<g opacity="0.31" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="5.4s" begin="-8.2s" repeatCount="indefinite"/>
+<text x="630" y="0" fill-opacity="0.10">#</text>
+<text x="630" y="16" fill-opacity="0.20">C</text>
+<text x="330" y="16" fill-opacity="0.15">#</text>
+<text x="330" y="32" fill-opacity="0.23">F</text>
+<text x="330" y="48" fill-opacity="0.31">9</text>
+<text x="630" y="32" fill-opacity="0.30">5</text>
+<text x="630" y="48" fill-opacity="0.40">{</text>
+<text x="630" y="64" fill-opacity="0.50">0</text>
+<text x="630" y="80" fill-opacity="0.60">4</text>
 
-<div align="center">
+<text x="630" y="96" fill-opacity="0.70">C</text>
+<text x="630" y="112" fill-opacity="0.80">9</text>
+<text x="630" y="128" fill-opacity="0.90">8</text>
+<text x="630" y="144" fill-opacity="1.00">&lt;</text>
+</g>
 
-<img src="./assets/terminal.svg" alt="Terminal Matrix de Adrián Sandoval" width="100%"/>
+<g opacity="0.27" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="7.5s" begin="-0.8s" repeatCount="indefinite"/>
+<text x="650" y="0" fill-opacity="0.09">}</text>
+<text x="650" y="16" fill-opacity="0.18">D</text>
+<text x="650" y="32" fill-opacity="0.27">5</text>
 
-<br/>
+<text x="650" y="48" fill-opacity="0.36">A</text>
+<text x="650" y="64" fill-opacity="0.45">0</text>
+<text x="650" y="80" fill-opacity="0.55">0</text>
+<text x="650" y="96" fill-opacity="0.64">/</text>
+<text x="650" y="112" fill-opacity="0.73">A</text>
+<text x="650" y="128" fill-opacity="0.82">0</text>
+<text x="650" y="144" fill-opacity="0.91">A</text>
+<text x="650" y="160" fill-opacity="1.00">&gt;</text>
+</g>
+<g opacity="0.29" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="5.1s" begin="-2.4s" repeatCount="indefinite"/>
+<text x="670" y="0" fill-opacity="0.07">0</text>
+<text x="670" y="16" fill-opacity="0.14">2</text>
+<text x="670" y="32" fill-opacity="0.21">9</text>
+<text x="670" y="48" fill-opacity="0.29">5</text>
+<text x="670" y="64" fill-opacity="0.36">0</text>
+<text x="670" y="80" fill-opacity="0.43">&gt;</text>
+<text x="670" y="96" fill-opacity="0.50">C</text>
+<text x="670" y="112" fill-opacity="0.57">1</text>
+<text x="670" y="128" fill-opacity="0.64">8</text>
+<text x="670" y="144" fill-opacity="0.71">}</text>
+<text x="670" y="160" fill-opacity="0.79">F</text>
+<text x="670" y="176" fill-opacity="0.86">B</text>
+<text x="670" y="192" fill-opacity="0.93">D</text>
+<text x="670" y="208" fill-opacity="1.00">0</text>
+</g>
+<g opacity="0.47" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="4.9s" begin="-8.4s" repeatCount="indefinite"/>
+<text x="690" y="0" fill-opacity="0.12">8</text>
+<text x="690" y="16" fill-opacity="0.25">#</text>
+<text x="690" y="32" fill-opacity="0.38">E</text>
+<text x="690" y="48" fill-opacity="0.50">1</text>
+<text x="690" y="64" fill-opacity="0.62">6</text>
+<text x="690" y="80" fill-opacity="0.75">8</text>
+<text x="690" y="96" fill-opacity="0.88">{</text>
+<text x="690" y="112" fill-opacity="1.00">D</text>
+</g>
+<g opacity="0.34" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="5.7s" begin="-0.2s" repeatCount="indefinite"/>
+<text x="710" y="0" fill-opacity="0.10">0</text>
+<text x="710" y="16" fill-opacity="0.20">0</text>
+<text x="710" y="32" fill-opacity="0.30">$</text>
+<text x="710" y="48" fill-opacity="0.40">8</text>
+<text x="710" y="64" fill-opacity="0.50">9</text>
+<text x="710" y="80" fill-opacity="0.60">E</text>
+<text x="710" y="96" fill-opacity="0.70">8</text>
+<text x="710" y="112" fill-opacity="0.80">7</text>
+<text x="710" y="128" fill-opacity="0.90">F</text>
+<text x="710" y="144" fill-opacity="1.00">6</text>
+</g>
+<g opacity="0.48" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="7.3s" begin="-5.9s" repeatCount="indefinite"/>
+<text x="730" y="0" fill-opacity="0.12">9</text>
+<text x="730" y="16" fill-opacity="0.25">4</text>
+<text x="730" y="32" fill-opacity="0.38">8</text>
+<text x="730" y="48" fill-opacity="0.50">1</text>
+<text x="730" y="64" fill-opacity="0.62">}</text>
+<text x="730" y="80" fill-opacity="0.75">E</text>
+<text x="730" y="96" fill-opacity="0.88">F</text>
+<text x="730" y="112" fill-opacity="1.00">2</text>
+</g>
+<g opacity="0.47" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="8.2s" begin="-6.4s" repeatCount="indefinite"/>
+<text x="750" y="0" fill-opacity="0.11">4</text>
+<text x="750" y="16" fill-opacity="0.22">3</text>
+<text x="750" y="32" fill-opacity="0.33">1</text>
+<text x="750" y="48" fill-opacity="0.44">C</text>
+<text x="750" y="64" fill-opacity="0.56">0</text>
+<text x="750" y="80" fill-opacity="0.67">A</text>
+<text x="750" y="96" fill-opacity="0.78">/</text>
+<text x="750" y="112" fill-opacity="0.89">$</text>
+<text x="750" y="128" fill-opacity="1.00">0</text>
+</g>
+<g opacity="0.54" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="4.8s" begin="-0.8s" repeatCount="indefinite"/>
+<text x="770" y="0" fill-opacity="0.09">8</text>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+Compiling+ideas+into+reality...;%3E+Learning+something+new+every+day...;%3E+Code.+Learn.+Repeat.)
+<text x="770" y="16" fill-opacity="0.18">{</text>
+<text x="770" y="32" fill-opacity="0.27">1</text>
+<text x="770" y="48" fill-opacity="0.36">&gt;</text>
 
-</div>
+<text x="770" y="64" fill-opacity="0.45">F</text>
+<text x="770" y="80" fill-opacity="0.55">}</text>
+<text x="770" y="96" fill-opacity="0.64">1</text>
+<text x="770" y="112" fill-opacity="0.73">1</text>
+<text x="770" y="128" fill-opacity="0.82">6</text>
 
+<text x="770" y="144" fill-opacity="0.91">D</text>
+<text x="770" y="160" fill-opacity="1.00">D</text>
+</g>
+<g opacity="0.59" font-family="monospace" font-size="14" fill="#39ff14">
+
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="6.2s" begin="-2.4s" repeatCount="indefinite"/>
+<text x="790" y="0" fill-opacity="0.10">9</text>
+<text x="790" y="16" fill-opacity="0.20">2</text>
+<text x="790" y="32" fill-opacity="0.30">F</text>
+<text x="790" y="48" fill-opacity="0.40">1</text>
+<text x="790" y="64" fill-opacity="0.50">1</text>
+<text x="790" y="80" fill-opacity="0.60">E</text>
+<text x="790" y="96" fill-opacity="0.70">3</text>
+<text x="790" y="112" fill-opacity="0.80">D</text>
+<text x="790" y="128" fill-opacity="0.90">0</text>
+
+<text x="790" y="144" fill-opacity="1.00">2</text>
+</g>
+<g opacity="0.48" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="4.4s" begin="-2.5s" repeatCount="indefinite"/>
+<text x="810" y="0" fill-opacity="0.09">F</text>
+<text x="810" y="16" fill-opacity="0.18">8</text>
+<text x="810" y="32" fill-opacity="0.27">#</text>
+<text x="810" y="48" fill-opacity="0.36">0</text>
+<text x="810" y="64" fill-opacity="0.45">A</text>
+<text x="810" y="80" fill-opacity="0.55">0</text>
+<text x="810" y="96" fill-opacity="0.64">A</text>
+<text x="810" y="112" fill-opacity="0.73">C</text>
+<text x="810" y="128" fill-opacity="0.82">4</text>
+<text x="810" y="144" fill-opacity="0.91">&lt;</text>
+<text x="810" y="160" fill-opacity="1.00">1</text>
+</g>
+<g opacity="0.33" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="4.1s" begin="-2.7s" repeatCount="indefinite"/>
+<text x="830" y="0" fill-opacity="0.09">&lt;</text>
+<text x="830" y="16" fill-opacity="0.18">8</text>
+<text x="830" y="32" fill-opacity="0.27">#</text>
+<text x="830" y="48" fill-opacity="0.36">C</text>
+<text x="830" y="64" fill-opacity="0.45">{</text>
+<text x="830" y="80" fill-opacity="0.55">}</text>
+<text x="830" y="96" fill-opacity="0.64">&gt;</text>
+<text x="830" y="112" fill-opacity="0.73">4</text>
+<text x="830" y="128" fill-opacity="0.82">#</text>
+<text x="830" y="144" fill-opacity="0.91">2</text>
+<text x="830" y="160" fill-opacity="1.00">$</text>
+</g>
+<g opacity="0.48" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="4.7s" begin="-6.5s" repeatCount="indefinite"/>
+<text x="850" y="0" fill-opacity="0.09">1</text>
+<text x="850" y="16" fill-opacity="0.18">}</text>
+<text x="850" y="32" fill-opacity="0.27">8</text>
+<text x="850" y="48" fill-opacity="0.36">/</text>
+<text x="850" y="64" fill-opacity="0.45">5</text>
+<text x="850" y="80" fill-opacity="0.55">$</text>
+<text x="850" y="96" fill-opacity="0.64">}</text>
+<text x="850" y="112" fill-opacity="0.73">8</text>
+<text x="850" y="128" fill-opacity="0.82">C</text>
+<text x="850" y="144" fill-opacity="0.91">8</text>
+<text x="850" y="160" fill-opacity="1.00">#</text>
+</g>
+<g opacity="0.26" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="6.8s" begin="-7.3s" repeatCount="indefinite"/>
+<text x="870" y="0" fill-opacity="0.08">{</text>
+<text x="870" y="16" fill-opacity="0.17">&lt;</text>
+<text x="870" y="32" fill-opacity="0.25">}</text>
+<text x="870" y="48" fill-opacity="0.33">{</text>
+<text x="870" y="64" fill-opacity="0.42">}</text>
+<text x="870" y="80" fill-opacity="0.50">/</text>
+<text x="870" y="96" fill-opacity="0.58">F</text>
+<text x="870" y="112" fill-opacity="0.67">A</text>
+<text x="870" y="128" fill-opacity="0.75">0</text>
+<text x="870" y="144" fill-opacity="0.83">1</text>
+<text x="870" y="160" fill-opacity="0.92">C</text>
+<text x="870" y="176" fill-opacity="1.00">/</text>
+</g>
+<g opacity="0.41" font-family="monospace" font-size="14" fill="#39ff14">
+<animateTransform attributeName="transform" type="translate" from="0 -200" to="0 280" dur="8.8s" begin="-3.4s" repeatCount="indefinite"/>
+<text x="890" y="0" fill-opacity="0.10">1</text>
+<text x="890" y="16" fill-opacity="0.20">/</text>
+<text x="890" y="32" fill-opacity="0.30">0</text>
+<text x="890" y="48" fill-opacity="0.40">/</text>
+<text x="890" y="64" fill-opacity="0.50">9</text>
+<text x="890" y="80" fill-opacity="0.60">{</text>
+<text x="890" y="96" fill-opacity="0.70">F</text>
+<text x="890" y="112" fill-opacity="0.80">7</text>
+<text x="890" y="128" fill-opacity="0.90">0</text>
+<text x="890" y="144" fill-opacity="1.00">0</text>
+</g>
+<rect width="900" height="32" fill="#0b140b"/>
+<circle cx="22" cy="16" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="16" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="16" r="6" fill="#27c93f"/>
+<text x="450" y="21" text-anchor="middle" font-family="monospace" font-size="13" fill="#39ff14">adrian@4driSando: ~</text>
+<rect x="30" y="52" width="840" height="170" rx="8" fill="#050a05" fill-opacity=".82" stroke="#39ff14" stroke-opacity=".5"/>
+<text x="48" y="86" font-family="monospace" font-size="18" fill="#39ff14" textLength="86" lengthAdjust="spacingAndGlyphs" opacity="0"><set attributeName="opacity" to="1" begin="0.5s" fill="freeze"/>$ whoami</text>
+<text x="156" y="86" font-family="monospace" font-size="18" fill="#d6ffd0" opacity="0"><set attributeName="opacity" to="1" begin="1.36s" fill="freeze"/>adrian_sandoval</text>
+<text x="48" y="122" font-family="monospace" font-size="18" fill="#39ff14" textLength="162" lengthAdjust="spacingAndGlyphs" opacity="0"><set attributeName="opacity" to="1" begin="2.5s" fill="freeze"/>$ cat stack.txt</text>
+<text x="232" y="122" font-family="monospace" font-size="18" fill="#d6ffd0" opacity="0"><set attributeName="opacity" to="1" begin="3.85s" fill="freeze"/>Java · Spring Boot · Docker · Linux</text>
+<text x="48" y="158" font-family="monospace" font-size="18" fill="#39ff14" textLength="140" lengthAdjust="spacingAndGlyphs" opacity="0"><set attributeName="opacity" to="1" begin="5.5s" fill="freeze"/>$ ./status.sh</text>
+<text x="210" y="158" font-family="monospace" font-size="18" fill="#d6ffd0" opacity="0"><set attributeName="opacity" to="1" begin="6.71s" fill="freeze"/>Cursando 2º DAM ... [OK]</text>
+<text x="48" y="194" font-family="monospace" font-size="18" fill="#39ff14">$</text>
+<rect x="70" y="178" width="11" height="20" fill="#39ff14"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1s" repeatCount="indefinite"/></rect>
+</g>
+<rect x=".5" y=".5" width="899" height="259" rx="12" fill="none" stroke="#39ff14" stroke-opacity=".6"/>
+</svg>
