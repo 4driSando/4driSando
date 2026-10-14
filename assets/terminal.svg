@@ -650,7 +650,7 @@
 <text x="48" y="86" font-family="monospace" font-size="18" fill="#39ff14" textLength="86" lengthAdjust="spacingAndGlyphs" opacity="0"><set attributeName="opacity" to="1" begin="0.5s" fill="freeze"/>$ whoami</text>
 <text x="156" y="86" font-family="monospace" font-size="18" fill="#d6ffd0" opacity="0"><set attributeName="opacity" to="1" begin="1.36s" fill="freeze"/>adrian_sandoval</text>
 <text x="48" y="122" font-family="monospace" font-size="18" fill="#39ff14" textLength="162" lengthAdjust="spacingAndGlyphs" opacity="0"><set attributeName="opacity" to="1" begin="2.5s" fill="freeze"/>$ cat stack.txt</text>
-<text x="232" y="122" font-family="monospace" font-size="18" fill="#d6ffd0" opacity="0"><set attributeName="opacity" to="1" begin="3.85s" fill="freeze"/>Java · Spring Boot · Docker · Linux</text>
+<text x="232" y="122" font-family="monospace" font-size="18" fill="#d6ffd0" opacity="0"><set attributeName="opacity" to="1" begin="3.85s" fill="freeze"/>Java · Python · Docker · Linux</text>
 <text x="48" y="158" font-family="monospace" font-size="18" fill="#39ff14" textLength="140" lengthAdjust="spacingAndGlyphs" opacity="0"><set attributeName="opacity" to="1" begin="5.5s" fill="freeze"/>$ ./status.sh</text>
 <text x="210" y="158" font-family="monospace" font-size="18" fill="#d6ffd0" opacity="0"><set attributeName="opacity" to="1" begin="6.71s" fill="freeze"/>Cursando 2º DAM ... [OK]</text>
 <text x="48" y="194" font-family="monospace" font-size="18" fill="#39ff14">$</text>
